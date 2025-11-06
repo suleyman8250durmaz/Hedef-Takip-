@@ -7,9 +7,6 @@ Tema seçimi (Açık, Koyu, Mavi, Yeşil)
 LocalStorage kullanımı (veriler tarayıcıda saklanır)
 Sabitleme (önemli hedefleri üstte tutma)
 İlerleme çubuğu ile dinamik güncelleme
-
 🛠️ Kullanılan Teknolojiler
 HTML5, CSS3, Bootstrap 5
 JavaScript (LocalStorage)
-
-
